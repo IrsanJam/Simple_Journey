@@ -12,8 +12,8 @@ Follow these steps to get started:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/https://github.com/IrsanJam/Simple_Journey.git
+   cd Simple_Journey
    ```
 
 2. **Start the container**
